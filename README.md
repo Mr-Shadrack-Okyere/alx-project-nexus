@@ -74,7 +74,7 @@ Share ideas, ask questions, and stay updated with announcements
 ---
 ProDev Tip
 ---
----
+
 During the first week:
 
 Communicate your project idea
