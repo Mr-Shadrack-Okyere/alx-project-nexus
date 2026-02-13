@@ -15,6 +15,7 @@ Frameworks: Django, Django REST Framework
 APIs: REST APIs, GraphQL
 
 Containerization & Deployment: Docker, CI/CD pipelines
+
 ---
 Important Backend Development Concepts
 ---
